@@ -4,6 +4,7 @@ import Home from "./components/pages/Home";
 import About from "./components/pages/About";
 import Login from "./components/pages/Login";
 import Service from "./components/pages/Service";
+import Contact from "./components/pages/Contact";
 function App() {
   return (
     <div className="App">
